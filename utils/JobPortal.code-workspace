@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "AI-RAG-Query-System",
+			"path": "../../AI-RAG-Query-System"
+		}
+	],
+	"settings": {}
+}
